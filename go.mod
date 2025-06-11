@@ -1,4 +1,4 @@
-module github/dodopizza/infra.operators-entities
+module github.com/dodopizza/infra.operators-entities
 
 go 1.23.0
 
