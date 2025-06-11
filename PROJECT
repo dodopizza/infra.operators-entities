@@ -6,7 +6,7 @@ domain: workloads.k8s.dodois.io
 layout:
 - go.kubebuilder.io/v4
 projectName: operators-entites
-repo: github/dodopizza/infra.operators-entities
+repo: github.com/dodopizza/infra.operators-entities
 resources:
 - api:
     crdVersion: v1
@@ -14,6 +14,6 @@ resources:
   domain: workloads.k8s.dodois.io
   group: group
   kind: Book
-  path: github/dodopizza/infra.operators-entities/api/v1
+  path: github.com/dodopizza/infra.operators-entities/api/v1
   version: v1
 version: "3"

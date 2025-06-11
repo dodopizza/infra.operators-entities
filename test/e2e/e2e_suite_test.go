@@ -25,7 +25,7 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github/dodopizza/infra.operators-entities/test/utils"
+	"github.com/dodopizza/infra.operators-entities/test/utils"
 )
 
 var (
