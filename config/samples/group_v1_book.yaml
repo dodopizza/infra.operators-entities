@@ -1,0 +1,9 @@
+apiVersion: group.workloads.k8s.dodois.io/v1
+kind: Book
+metadata:
+  labels:
+    app.kubernetes.io/name: operators-entites
+    app.kubernetes.io/managed-by: kustomize
+  name: book-sample
+spec:
+  # TODO(user): Add fields here
